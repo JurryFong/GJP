@@ -1,2 +1,0 @@
-安装手机APP提示请求脚本失败解决方案
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis -i
