@@ -1,2 +1,2 @@
-命令中运行下这条即可
+瀹夎鎵嬫満APP鎻愮ず璇锋眰鑴氭湰澶辫触瑙ｅ喅鏂规
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis -i
