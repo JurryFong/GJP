@@ -1,0 +1,2 @@
+命令中运行下这条即可
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis -i
